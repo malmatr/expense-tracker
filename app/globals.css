@@ -16,7 +16,7 @@
 
 @layer utilities {
   .btn {
-    @apply px-4 py-2 text-sm capitalize rounded-xl;
+    @apply self-start px-4 py-2 text-sm capitalize rounded-xl;
   }
 
   .btn-primary {
